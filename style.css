@@ -1,0 +1,33 @@
+body {
+    background-color: #F3DEBA;
+}
+
+hr {
+    border: none;
+    border-top: 15px dotted #ABC4AA;
+    width: 30%;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+
+}
+
+hr:after {
+    background-color: #F3DEBA;
+    content: '🍉🍓🍒';
+    padding: 0 4px;
+    position: relative;
+    top: -18px;
+}
+
+h1 {
+    color:#675D50;
+}
+
+h3 {
+    color:#675D50;
+}
+
+ul {
+    list-style-type: '🎈';
+  }
